@@ -86,10 +86,10 @@ Passionate about threat detection, incident response, and strengthening organiza
 
 #### <H1>What I'm Working On
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praxezz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praxezz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-</p>
+</div>
 
 </div>
 
