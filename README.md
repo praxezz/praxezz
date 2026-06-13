@@ -10,6 +10,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 
 </div>
+
 <div align="center">
 
   
