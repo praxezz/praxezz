@@ -82,9 +82,9 @@ Passionate about threat detection, incident response, and strengthening organiza
 
 </div>
 
-<div align="left">
+<div align="center">
 
-#### <H2>What I'm Working On
+#### <H1>What I'm Working On
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praxezz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
