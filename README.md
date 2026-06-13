@@ -97,8 +97,6 @@ Passionate about threat detection, incident response, and strengthening organiza
 
 <div align="center">
 
-#### <H3>Contribution Streak
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=praxezz&theme=dark&hide_border=true&background=0D1117"/>
 
 </div>
