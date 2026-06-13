@@ -84,24 +84,13 @@ Passionate about threat detection, incident response, and strengthening organiza
 
 ---
 
-<div>
-  
-<p align="center">
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praxezz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-</p>
-
-</div>
-
----
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praxezz&theme=dark&hide_border=true&background=0D1117"/>
+| | |
+|:-:|:-:|
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praxezz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=praxezz&theme=dark&hide_border=true&background=0D1117"/> |
 
 </div>
-
----
 
 <div align="center">
 
