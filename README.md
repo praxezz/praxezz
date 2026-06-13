@@ -1,3 +1,4 @@
+
 <div align="left">
   
 ####  <H2>About me
@@ -81,7 +82,7 @@ Passionate about threat detection, incident response, and strengthening organiza
 
 </div>
 
-<div align="center">
+<div align="left">
 
 #### <H2>What I'm Working On
 
