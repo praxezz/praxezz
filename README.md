@@ -1,6 +1,6 @@
 <div align="left">
   
-####  <H1>About me
+####  <H2>About me
 <img align="right" alt="welcat.png" width="170" src="https://github.com/praxezz/praxezz/blob/main/wel-cat.png" />
 <b>I'm Praveen K</b> -  Security caught my attention the same way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity turned into a habit, and eventually into a discipline.
 
@@ -8,12 +8,10 @@ I studied Computer Science (2022–2026), but most of what shaped me happened ou
 
 I'm drawn to the defensive side because it rewards patience, pattern recognition, and the discipline to chase evidence over assumptions. Right now, I'm looking to bring that mindset into a <b>SOC Analyst / L1 Network Engineer role</b> somewhere I can monitor, investigate, and respond to real threats, and keep getting better at reading the signals that matter.
 
-
 </div>
+<div align="center"> 
 
-<div align="right">
-
-#### <H1>Cybersecurity Arsenal 
+#### <H2>Cybersecurity Arsenal
 
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
@@ -58,25 +56,37 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 ![EDR/XDR](https://img.shields.io/badge/EDR%2FXDR-black?style=for-the-badge)
 ![SIEM](https://img.shields.io/badge/SIEM-black?style=for-the-badge)
 
-</Div>
+</div>
+
 
 <div align="right">
+ 
+<img align="left" alt="welcat.png" width="170" src="https://github.com/praxezz/praxezz/blob/main/int-cat.png" />  
 
-### <H1>Team Collaboration
+### <H2>Team Collaboration
 
-Hands-on experience with SOC L1 workflows, following the complete incident lifecycle:<br> 
-<b>alert detection → triage → investigation → escalation → documentation</b> 
-<br> Proficient in log analysis, incident tracking, structured ticket management, and maintaining clear documentation to support efficient security operations and incident response processes.
+Hands-on experience in SOC L1 operations, managing the complete incident lifecycle
+<br>
+<b>Alert Detection → Triage → Investigation → Escalation → Documentation.</b>
+</br>
 
+Skilled in analyzing security logs and alerts to identify, validate, and respond to potential threats.
+Proficient in incident tracking, ticket management, and maintaining accurate records for efficient security operations.
+
+Experienced in creating clear, structured documentation to support incident response and knowledge sharing.
+Strong team collaboration skills, working closely with security analysts and stakeholders to ensure timely incident resolution.
+
+Focused on improving operational efficiency through organized workflows and adherence to security best practices.
+Passionate about threat detection, incident response, and strengthening organizational security posture.
 </div>
 
 ---
 
 <div align="center">
 
-#### <H3>Statistics
+#### <H2>Statistics
 
-#### <H3>Praveen's GitHub Stats
+#### <H3>GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praxezz&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
