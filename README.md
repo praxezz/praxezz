@@ -34,7 +34,6 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 ![Suricata](https://img.shields.io/badge/Suricata-black?style=for-the-badge)
 ![Wazuh](https://img.shields.io/badge/Wazuh-black?style=for-the-badge)
 ![Sysmon](https://img.shields.io/badge/Sysmon-black?style=for-the-badge)
-<img align="left" alt="welcat.png" width="170" src="https://github.com/praxezz/praxezz/blob/main/int-cat.png" />
 ![YARA](https://img.shields.io/badge/YARA-black?style=for-the-badge)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-black?style=for-the-badge)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-black?style=for-the-badge)
