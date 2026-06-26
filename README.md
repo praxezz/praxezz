@@ -65,19 +65,18 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 ### <H2>Team Collaboration
 
-Hands-on experience in SOC L1 operations, managing the complete incident lifecycle
+Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says *"I saw something similar yesterday"* and suddenly a pattern clicks.
+
+I've built my workflow around the full Cybersecurity Analysis incident lifecycle:
 <br>
 <b>Alert Detection → Triage → Investigation → Escalation → Documentation.</b>
 </br>
 
-Skilled in analyzing security logs and alerts to identify, validate, and respond to potential threats.
-Proficient in incident tracking, ticket management, and maintaining accurate records for efficient security operations.
+I don't just close tickets - I chase the story behind the alert. Every log entry is a clue, every false positive is a lesson, and every escalation is a handoff that has to be clear enough for the next analyst to pick up without missing a beat.
 
-Experienced in creating clear, structured documentation to support incident response and knowledge sharing.
-Strong team collaboration skills, working closely with security analysts and stakeholders to ensure timely incident resolution.
+I document everything. Not because it's required - because the next person in the chair deserves context, not confusion.
 
-Focused on improving operational efficiency through organized workflows and adherence to security best practices.
-Passionate about threat detection, incident response, and strengthening organizational security posture.
+Good security teams run on trust, clarity, and shared knowledge. That's the kind of team I want to be part of - and the kind of analyst I'm building myself to be.
 
 </div>
 
