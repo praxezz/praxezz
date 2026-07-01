@@ -88,8 +88,8 @@ Good security teams run on trust, clarity, and shared knowledge. That's the kind
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=praxezz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 
 </div>
-<br>
 
+<br>
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&custom_title=Praveen's%20Contribution%20Graph&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=false&hide_border=true"/>
