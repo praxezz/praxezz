@@ -70,7 +70,6 @@ Security isn't a solo sport. The real work happens when analysts talk to each ot
 I've built my workflow around the full Cybersecurity Analysis incident lifecycle:
 <br>
 <b>Alert Detection → Triage → Investigation → Escalation → Documentation.</b>
-</br>
 
 I don't just close tickets - I chase the story behind the alert. Every log entry is a clue, every false positive is a lesson, and every escalation is a handoff that has to be clear enough for the next analyst to pick up without missing a beat.
 
@@ -83,15 +82,13 @@ Good security teams run on trust, clarity, and shared knowledge. That's the kind
 <br>
 
 <div align="center">
-<div align="center">
 
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praxezz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=praxezz&theme=dark&hide_border=true&background=0D1117"/> |
-|:-:|:-:|
+<img src="https://github-readme-stats.shion.dev/api?username=praxezz&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="180em"/> <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=true" height="180em"/>
 
-</div>
-</br>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=praxezz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 
 </div>
+<br>
 
 <div align="center">
 
