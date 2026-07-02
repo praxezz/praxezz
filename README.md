@@ -63,7 +63,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 ## Team Collaboration
 
-Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says *"I saw something similar yesterday"* and suddenly a pattern clicks.
+Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says  *"I saw something similar yesterday"* and suddenly a pattern clicks.
 
 I've built my workflow around the full Cybersecurity Analysis incident lifecycle:
 <br>
