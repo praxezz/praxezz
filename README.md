@@ -1,18 +1,17 @@
 <div align="left">
-  
-####  <H2>About me
+
+#### About me
 <img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" />
 <b>I'm Praveen K</b> -  Security caught my attention the same way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity turned into a habit, and eventually into a discipline.
 
-I studied Computer Science (2022–2026), but most of what shaped me happened outside the syllabus. late nights in a <b>home lab, packet captures </b> that didn't add up, and the quiet satisfaction of turning "something feels off" into "here's exactly what happened, and here's the fix." That hands-on curiosity grew into a broader interest in both <b>offensive and defensive security. investigating threats, building automated tools for reconnaissance and analysis, and creating practical defenses</b> grounded in real-world findings. I also contribute to open-source projects aimed at making <b>security better for everyone</b>.
+I studied Computer Science (2022-2026), but most of what shaped me happened outside the syllabus. late nights in a <b>home lab, packet captures</b> that didn't add up, and the quiet satisfaction of turning "something feels off" into "here's exactly what happened, and here's the fix." That hands-on curiosity grew into a broader interest in both <b>offensive and defensive security, investigating threats, building automated tools for reconnaissance and analysis, and creating practical defenses</b> grounded in real-world findings. I also contribute to open-source projects aimed at making <b>security better for everyone</b>.
 
 I'm drawn to the defensive side because it rewards patience, pattern recognition, and the discipline to chase evidence over assumptions. Right now, I'm looking to bring that mindset into a <b>SOC Analyst / L1 Network Engineer role</b> somewhere I can monitor, investigate, and respond to real threats, and keep getting better at reading the signals that matter.
 
 </div>
-<div align="center"> 
+<div align="center">
 
-#### <H2>Cybersecurity Arsenal
-
+#### Cybersecurity Arsenal
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
@@ -58,18 +57,18 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 </div>
 
-
 <div align="right">
- 
-<img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />  
 
-### <H2>Team Collaboration
+<img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
+
+### Team Collaboration
 
 Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says *"I saw something similar yesterday"* and suddenly a pattern clicks.
 
 I've built my workflow around the full Cybersecurity Analysis incident lifecycle:
 <br>
 <b>Alert Detection → Triage → Investigation → Escalation → Documentation.</b>
+<br>
 
 I don't just close tickets - I chase the story behind the alert. Every log entry is a clue, every false positive is a lesson, and every escalation is a handoff that has to be clear enough for the next analyst to pick up without missing a beat.
 
@@ -83,13 +82,11 @@ Good security teams run on trust, clarity, and shared knowledge. That's the kind
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=praxezz&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="150em"/> <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=true" height="150em"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=praxezz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praxezz&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=praxezz&theme=dark&hide_border=true&background=0D1117"/> |
+|:-:|:-:|
 
 </div>
 
-<br>
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&custom_title=Praveen's%20Contribution%20Graph&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=false&hide_border=true"/>
