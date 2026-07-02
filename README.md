@@ -72,9 +72,8 @@ I've built my workflow around the full Cybersecurity Analysis incident lifecycle
 
 I don't just close tickets - I chase the story behind the alert. Every log entry is a clue, every false positive is a lesson, and every escalation is a handoff that has to be clear enough for the next analyst to pick up without missing a beat.
 
-I document everything. Not because it's required - because the next person in the chair deserves context, not confusion.
+I document everything not because it's required, but because the next person handling the incident deserves context, not confusion. I believe great security teams are built on trust, clear communication, and knowledge. That's the kind of team I want to be part of and the kind of cybersecurity analyst I'm continuously working to become.
 
-Good security teams run on trust, clarity, and shared knowledge. That's the kind of team I want to be part of - and the kind of analyst I'm building myself to be.
 
 </div>
 
