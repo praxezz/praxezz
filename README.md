@@ -1,6 +1,6 @@
 <div align="left">
 
-#### About me
+## About me
 <img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" />
 <b>I'm Praveen K</b> -  Security caught my attention the same way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity turned into a habit, and eventually into a discipline.
 
@@ -11,7 +11,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 </div>
 <div align="center">
 
-#### Cybersecurity Arsenal
+## Cybersecurity Arsenal
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
@@ -61,7 +61,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 <img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
 
-### Team Collaboration
+## Team Collaboration
 
 Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says *"I saw something similar yesterday"* and suddenly a pattern clicks.
 
@@ -82,10 +82,13 @@ Good security teams run on trust, clarity, and shared knowledge. That's the kind
 
 <div align="center">
 
-| <img src="https://github-readme-stats.shion.dev/api?username=praxezz&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=praxezz&theme=dark&hide_border=true&background=0D1117"/> |
-|:-:|:-:|
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="49%" /> 
+</p>
 
 </div>
+
+<br>
 
 <div align="center">
 
