@@ -83,7 +83,7 @@ Good security teams run on trust, clarity, and shared knowledge. That's the kind
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="49%" /> 
+  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="52%" /> 
 </p>
 
 </div>
