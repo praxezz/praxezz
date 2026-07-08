@@ -82,7 +82,7 @@ I document everything not because it's required, but because the next person han
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="52%" /> 
+  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="58%" /> 
 </p>
 
 </div>
