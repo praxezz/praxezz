@@ -1,6 +1,6 @@
 <div align="left">
 
-## About me 
+# About me 
   
 <img align="right" alt="welcat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
 
@@ -28,7 +28,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 <div align="right">     
 <img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
   
-## Team Collaboration  
+# Team Collaboration  
 
 Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says <br>*"I saw something similar yesterday"* and suddenly a pattern clicks.
 
