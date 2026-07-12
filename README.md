@@ -37,9 +37,7 @@ I've built my workflow around the full incident lifecycle<br>
 
 I chase the **story behind every alert**. Each log entry is a clue, each false positive is a lesson, and each handoff is a chance to leave the next analyst with **context, not confusion**.
 
-I believe great security teams are built on **trust, clear communication, and shared knowledge**, the kind of team I want to be part of, and the kind of analyst I'm continuously working to become.
-
-Documentation, playbooks, and post-incident write-ups aren't paperwork bolted onto the job. They're part of the **actual defense**. Looping back on closed incidents to see what the alert logic missed, and sharing that with the team, is what turns individual catches into **knowledge that raises the floor for everyone**.
+I believe great security teams are built on **trust, clear communication, and shared knowledge**, the kind of team I want to be part of, and the kind of analyst I'm continuously working to become.Documentation, playbooks, and post-incident write-ups aren't paperwork bolted onto the job. They're part of the **actual defense**. Looping back on closed incidents to see what the alert logic missed, and sharing that with the team, is what turns individual catches into **knowledge that raises the floor for everyone**.
 </div>
 
 <br>
