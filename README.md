@@ -22,13 +22,11 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 <br>
 
-
-
-<div align="right">  
-
+<div align="right"> 
+<img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
+  
 # Team Collaboration  
 
- <img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
   
   
 Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says <br>*"I saw something similar yesterday"* and suddenly a pattern clicks.
@@ -50,7 +48,7 @@ I document everything not because it's required, but because the next person han
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="65%" /> 
+  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="60%" /> 
 </p>
 
 </div>
