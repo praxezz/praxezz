@@ -2,7 +2,7 @@
 
 ## About me 
   
-<img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
+<img align="right" alt="welcat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
 
 <b>I'm Praveen K</b> security caught my attention the same way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity turned into a habit, and eventually into a discipline.
 
@@ -35,9 +35,12 @@ Security isn't a solo sport. The real work happens when analysts talk to each ot
 I've built my workflow around the full Cybersecurity Analysis incident lifecycle:
 <br>
 <b>Alert Detection → Triage → Investigation → Escalation → Documentation.</b>
+
 <br>
 
 I don't just close tickets - I chase the story behind the alert. Every log entry is a clue, every false positive is a lesson, and every escalation is a handoff that has to be clear enough for the next analyst to pick up without missing a beat.
+
+<br>
 
 I document everything not because it's required, but because the next person handling the incident deserves context, not confusion. I believe great security teams are built on trust, clear communication, and knowledge. That's the kind of team I want to be part of and the kind of cybersecurity analyst I'm continuously working to become.
 
