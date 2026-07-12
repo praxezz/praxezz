@@ -39,9 +39,7 @@ I don't just close tickets - I chase the story behind the alert. Every log entry
 
 I believe great security teams are built on trust, clear communication, and shared knowledge. That's the kind of team I want to be part of - and the kind of cybersecurity analyst I'm continuously working to become.
 
-The best catches rarely come from a single analyst staring at a single alert - they come from someone cross-checking a hunch against a teammate's earlier ticket, or a shift handoff note that flagged "keep an eye on this subnet." That's why I treat documentation, playbooks, and post-incident write-ups as part of the actual defense, not paperwork bolted onto it - a well-written ticket today is tomorrow's fastest triage.
-
-I make it a point to loop back on closed incidents - not just to confirm the fix held, but to ask what the alert logic missed, what could've cut the detection time in half, and whether the finding deserves a new rule, a tuned threshold, or a mention in the next team sync. Knowledge that stays in one person's head is a single point of failure; knowledge that gets shared, questioned, and refined by the team is what actually raises the floor for everyone.
+Documentation, playbooks, and post-incident write-ups are part of the actual defense, not paperwork bolted onto it - looping back on closed incidents to check what the alert logic missed and sharing that with the team is what turns individual catches into knowledge that raises the floor for everyone.
 </div>
 
 <br>
