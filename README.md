@@ -14,6 +14,9 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 </div>
 
+#
+<br>
+
 <div align="center">
   
 <img src="./cyber_arsenal.svg" alt="Cyber Arsenal" width="900" />
@@ -42,16 +45,18 @@ Documentation, playbooks, and post-incident write-ups aren't paperwork bolted on
 </div>
 
 <br>
-<br>
 
 <div align="center">
-
+  
+# 
+<br>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="60%" /> 
 </p>
 
 </div>
 
+# 
 <br>
 
 <div align="center">
