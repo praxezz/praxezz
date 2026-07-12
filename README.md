@@ -26,7 +26,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
   
 
 <div align="right">     
-<img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
+<img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
   
 ## Team Collaboration  
 
