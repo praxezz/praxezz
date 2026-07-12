@@ -2,7 +2,7 @@
 
   # About me 
   
-  <img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
+<img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
 <b>I'm Praveen K</b> -  Security caught my attention the same way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity turned into a habit, and eventually into a discipline.
 
 I studied Computer Science (2022-2026), but most of what shaped me happened outside the syllabus. late nights in a <b>home lab, packet captures</b> that didn't add up, and the quiet satisfaction of turning "something feels off" into "here's exactly what happened, and here's the fix." That hands-on curiosity grew into a broader interest in both <b>offensive and defensive security, investigating threats, building automated tools for reconnaissance and analysis, and creating practical defenses</b> grounded in real-world findings. I also contribute to open-source projects aimed at making <b>security better for everyone</b>.
@@ -25,9 +25,11 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 
 <div align="right">  
+
+# Team Collaboration  
+
  <img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
   
-# Team Collaboration  
   
 Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says <br>*"I saw something similar yesterday"* and suddenly a pattern clicks.
 
