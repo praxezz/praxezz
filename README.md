@@ -19,7 +19,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 <div align="center">
   
-<img src="./cyber_arsenal.svg" alt="Cyber Arsenal" width="1100" />
+<img src="./cyber_arsenal.svg" alt="Cyber Arsenal" width="900" />
 
 </div>
 
