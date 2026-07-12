@@ -32,10 +32,12 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says <br>*"I saw something similar yesterday"* and suddenly a pattern clicks.
 I've built my workflow around the full Cybersecurity Analysis incident lifecycle
+
 <br>
 <b>Alert Detection → Triage → Investigation → Escalation → Documentation.</b>
 <br>
-I don't just close tickets - I chase the story behind the alert. Every log entry is a clue, every false positive is a lesson, and every escalation is a handoff that has to be clear enough for the next analyst to pick up without missing a beat. I document everything not because it's required, but because the next person handling the incident deserves context.
+
+I chase the story behind every alert - treating each log as a clue, each false positive as a lesson, and each handoff as a chance to leave the next analyst with context, not confusion.
 
 I believe great security teams are built on trust, clear communication, and shared knowledge. That's the kind of team I want to be part of - and the kind of cybersecurity analyst I'm continuously working to become.
 
