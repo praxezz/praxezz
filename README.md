@@ -16,7 +16,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 
 <div align="center">
   
-<img src="./cyber_arsenal.svg" alt="Cyber Arsenal" width="800" />
+<img src="./cyber_arsenal.svg" alt="Cyber Arsenal" width="900" />
 
 </div>
 
@@ -58,5 +58,5 @@ I document everything not because it's required, but because the next person han
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&custom_title=Praveen's%20Contribution%20Graph&bg_color=000000&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FF8C00&area=true&area_color=FFFFFF&hide_border=true"/>
 </div>
