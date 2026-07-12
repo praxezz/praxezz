@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # About me 
   
@@ -25,7 +25,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 <div> 
   
 
-<div align="right">     
+<div align="center">     
 <img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
   
 # Team Collaboration  
