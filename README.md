@@ -30,17 +30,16 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 # Team Collaboration  
 <img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
 
-Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says <br>*"I saw something similar yesterday"* and suddenly a pattern clicks.
-I've built my workflow around the full Cybersecurity Analysis incident lifecycle
-<br>
-<b>Alert Detection → Triage → Investigation → Escalation → Documentation.</b>
-<br>
+Security isn't a solo sport. The real breakthroughs happen when analysts **talk to each other** - when someone says, *"I saw something similar yesterday,"* and suddenly a **pattern clicks** into place.
 
-I chase the story behind every alert - treating each log as a clue, each false positive as a lesson, and each handoff as a chance to leave the next analyst with context, not confusion.
+I've built my workflow around the full incident lifecycle<br>
+**Alert Detection → Triage → Investigation → Escalation → Documentation**
 
-I believe great security teams are built on trust, clear communication, and shared knowledge. That's the kind of team I want to be part of - and the kind of cybersecurity analyst I'm continuously working to become.
+I chase the **story behind every alert**. Each log entry is a clue, each false positive is a lesson, and each handoff is a chance to leave the next analyst with **context, not confusion**.
 
-Documentation, playbooks, and post-incident write-ups are part of the actual defense, not paperwork bolted onto it - looping back on closed incidents to check what the alert logic missed and sharing that with the team is what turns individual catches into knowledge that raises the floor for everyone.
+I believe great security teams are built on **trust, clear communication, and shared knowledge**, the kind of team I want to be part of, and the kind of analyst I'm continuously working to become.
+
+Documentation, playbooks, and post-incident write-ups aren't paperwork bolted onto the job. They're part of the **actual defense**. Looping back on closed incidents to see what the alert logic missed, and sharing that with the team, is what turns individual catches into **knowledge that raises the floor for everyone**.
 </div>
 
 <br>
