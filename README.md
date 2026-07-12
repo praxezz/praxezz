@@ -2,7 +2,7 @@
 
 # About me 
   
-<img align="right" alt="welcat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
+<img align="right" alt="welcat.png" width="190" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
 
 <b>I'm Praveen K</b> security caught my attention the same way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity turned into a habit, and eventually into a discipline.
 
@@ -28,7 +28,7 @@ I'm drawn to the defensive side because it rewards patience, pattern recognition
 <div align="right">     
   
 # Team Collaboration  
-<img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
+<img align="left" alt="int-cat.png" width="190" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
 
 Security isn't a solo sport. The real work happens when analysts talk to each other - when someone says <br>*"I saw something similar yesterday"* and suddenly a pattern clicks.
 I've built my workflow around the full Cybersecurity Analysis incident lifecycle
