@@ -1,6 +1,6 @@
 <div align="left">
 
-# 𝕬𝖇𝖔𝖚𝖙 𝖒𝖊
+# 𝕭𝖊𝖍𝖎𝖓𝖉 𝖙𝖍𝖊 𝕬𝖓𝖆𝖑𝖞𝖘𝖙
   
 <img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
 
