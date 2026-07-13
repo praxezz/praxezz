@@ -56,5 +56,5 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=7C3AED&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=7C3AED&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=false"/>
 </div>
