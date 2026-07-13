@@ -18,12 +18,14 @@ I lean toward defense because it rewards <b>patience</b>, <b>pattern recognition
 
 </div>
 
-#
+
 <br>
 
 <div align="center">
   
-<img src="./cyber_arsenal.svg" alt="Cyber Arsenal" width="900" />
+ # Cyber Arsenal 
+  
+<img src="./cyber_arsenal_v.svg" alt="Cyber Arsenal" width="1000" />
 
 </div>
 
