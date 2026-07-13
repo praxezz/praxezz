@@ -35,6 +35,7 @@ I lean toward defense because it rewards <b>patience</b>, <b>pattern recognition
 <div align="right">     
   
 # Team Collaboration  
+
 <img align="left" alt="int-cat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" /> 
 
 Security isn't a solo sport. The real breakthroughs happen when analysts **talk to each other** - when someone says, *"I saw something similar yesterday,"* and suddenly a **pattern clicks** into place.
