@@ -58,7 +58,7 @@ Documentation, playbooks, and post-incident write-ups aren't paperwork bolted on
 # 
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=false" width="60%" /> 
+  <img src="https://streak-stats.demolab.com/?user=praxezz&theme=dark&hide_border=true" width="60%" /> 
 </p>
 
 
