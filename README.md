@@ -2,7 +2,7 @@
 
 # 𝕬𝖇𝖔𝖚𝖙 𝖒𝖊
   
-<img align="right" alt="welcat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
+<img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
 
 <b>𝗜'𝗺 𝗣𝗿𝗮𝘃𝗲𝗲𝗻 𝗞</b>. 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗰𝗮𝘂𝗴𝗵𝘁 𝗺𝘆 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝘁𝗵𝗲 𝘄𝗮𝘆 𝗮𝗻 𝘂𝗻𝘂𝘀𝘂𝗮𝗹 𝗹𝗼𝗴𝗶𝗻 𝗮𝘁𝘁𝗲𝗺𝗽𝘁 𝗰𝗮𝘁𝗰𝗵𝗲𝘀 𝗮𝗻 𝗮𝗻𝗮𝗹𝘆𝘀𝘁'𝘀 𝗲𝘆𝗲: 𝘀𝗺𝗮𝗹𝗹, 𝗲𝗮𝘀𝘆 𝘁𝗼 𝗺𝗶𝘀𝘀, 𝗶𝗺𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲 𝘁𝗼 𝗶𝗴𝗻𝗼𝗿𝗲 𝗼𝗻𝗰𝗲 𝘆𝗼𝘂 𝗻𝗼𝘁𝗶𝗰𝗲 𝗶𝘁. 𝗧𝗵𝗮𝘁 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆 𝗯𝗲𝗰𝗮𝗺𝗲 𝗮 𝗵𝗮𝗯𝗶𝘁, 𝘁𝗵𝗲𝗻 𝗮 𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗲.
 <br>
