@@ -23,7 +23,7 @@ I lean toward defense because it rewards <b>patience</b>, <b>pattern recognition
 
 <div align="center">
     
-<img src="./cyber_arsenal_.svg" alt="Cyber Arsenal" width="1100" />
+<img src="./cyber_arsenal_v.svg" alt="Cyber Arsenal" width="1000" />
 
 </div>
 
