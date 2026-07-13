@@ -1,0 +1,139 @@
+<svg viewBox="0 0 1200 424" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1a1a1a" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="424" fill="#000000"/>
+<rect width="1200" height="424" fill="url(#grid)"/>
+<polygon points="34,12 1166,12 1188,34 1188,390 1166,412 34,412 12,390 12,34" fill="none" stroke="#ffffff" stroke-width="2"/>
+<polygon points="44,20 1156,20 1178,42 1178,382 1156,404 44,404 22,382 22,42" fill="none" stroke="#555555" stroke-width="1"/>
+<g stroke="#ffffff" stroke-width="3" fill="none">
+<path d="M6,40 L6,6 L40,6"><animate attributeName="stroke-opacity" values="1;0.25;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></path>
+<path d="M1160,6 L1194,6 L1194,40"><animate attributeName="stroke-opacity" values="1;0.25;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></path>
+<path d="M1194,384 L1194,418 L1160,418"><animate attributeName="stroke-opacity" values="1;0.25;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></path>
+<path d="M40,418 L6,418 L6,384"><animate attributeName="stroke-opacity" values="1;0.25;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></path>
+</g>
+<text x="600.0" y="52" font-family="Courier New, monospace" font-size="34" font-weight="bold" fill="#bbbbbb" text-anchor="middle" letter-spacing="6" opacity="0.35">CYBER ARSENAL<animate attributeName="x" values="600.0;594.0;600.0;606.0;600.0" dur="3.2s" repeatCount="indefinite"/></text>
+<text x="600.0" y="49" font-family="Courier New, monospace" font-size="34" font-weight="bold" fill="#888888" text-anchor="middle" letter-spacing="6" opacity="0.3">CYBER ARSENAL<animate attributeName="x" values="600.0;607.0;600.0;593.0;600.0" dur="2.6s" repeatCount="indefinite"/></text>
+<text x="600.0" y="50" font-family="Courier New, monospace" font-size="34" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="6">CYBER ARSENAL<animate attributeName="opacity" values="1;1;0.8;1;1" dur="2.8s" repeatCount="indefinite"/></text>
+<line x1="440.0" y1="66" x2="760.0" y2="66" stroke="#ffffff" stroke-width="1.5"><animate attributeName="stroke-opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></line>
+<text x="600.0" y="92" font-family="Courier New, monospace" font-size="13" letter-spacing="2" fill="#aaaaaa" text-anchor="middle">&gt; SECURITY MODULES LOADED - SCANNING SKILLSET</text>
+<rect x="825.0" y="80" width="8" height="15" fill="#ffffff"><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+<line x1="40" y1="118" x2="1160" y2="118" stroke="#333333" stroke-width="1"/>
+<polygon points="65.5,142.0 121.5,142.0 127.5,148.0 127.5,162.0 121.5,168.0 65.5,168.0 59.5,162.0 59.5,148.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="93.5" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">SPLUNK</text>
+<polygon points="141.5,142.0 176.5,142.0 182.5,148.0 182.5,162.0 176.5,168.0 141.5,168.0 135.5,162.0 135.5,148.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="159.0" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">SPL</text>
+<polygon points="196.5,142.0 301.5,142.0 307.5,148.0 307.5,162.0 301.5,168.0 196.5,168.0 190.5,162.0 190.5,148.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="249.0" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">LOG INGESTION</text>
+<polygon points="321.5,142.0 412.5,142.0 418.5,148.0 418.5,162.0 412.5,168.0 321.5,168.0 315.5,162.0 315.5,148.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="367.0" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">ALERT RULES</text>
+<polygon points="432.5,142.0 516.5,142.0 522.5,148.0 522.5,162.0 516.5,168.0 432.5,168.0 426.5,162.0 426.5,148.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="474.5" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">DASHBOARDS</text>
+<polygon points="536.5,142.0 676.5,142.0 682.5,148.0 682.5,162.0 676.5,168.0 536.5,168.0 530.5,162.0 530.5,148.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="606.5" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">MICROSOFT SENTINEL</text>
+<polygon points="696.5,142.0 815.5,142.0 821.5,148.0 821.5,162.0 815.5,168.0 696.5,168.0 690.5,162.0 690.5,148.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="756.0" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">SIEM MONITORING</text>
+<polygon points="835.5,142.0 933.5,142.0 939.5,148.0 939.5,162.0 933.5,168.0 835.5,168.0 829.5,162.0 829.5,148.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="884.5" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">ALERT TRIAGE</text>
+<polygon points="953.5,142.0 1051.5,142.0 1057.5,148.0 1057.5,162.0 1051.5,168.0 953.5,168.0 947.5,162.0 947.5,148.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="1002.5" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">LOG ANALYSIS</text>
+<polygon points="1071.5,142.0 1134.5,142.0 1140.5,148.0 1140.5,162.0 1134.5,168.0 1071.5,168.0 1065.5,162.0 1065.5,148.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="1103.0" y="159.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">IDS/IPS</text>
+<polygon points="120.0,178.0 246.0,178.0 252.0,184.0 252.0,198.0 246.0,204.0 120.0,204.0 114.0,198.0 114.0,184.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="183.0" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">IOC/IOA ANALYSIS</text>
+<polygon points="266.0,178.0 378.0,178.0 384.0,184.0 384.0,198.0 378.0,204.0 266.0,204.0 260.0,198.0 260.0,184.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="322.0" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">THREAT HUNTING</text>
+<polygon points="398.0,178.0 531.0,178.0 537.0,184.0 537.0,198.0 531.0,204.0 398.0,204.0 392.0,198.0 392.0,184.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="464.5" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">INCIDENT RESPONSE</text>
+<polygon points="551.0,178.0 656.0,178.0 662.0,184.0 662.0,198.0 656.0,204.0 551.0,204.0 545.0,198.0 545.0,184.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="603.5" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">PCAP ANALYSIS</text>
+<polygon points="676.0,178.0 858.0,178.0 864.0,184.0 864.0,198.0 858.0,204.0 676.0,204.0 670.0,198.0 670.0,184.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="767.0" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">VULNERABILITY ASSESSMENT</text>
+<polygon points="878.0,178.0 913.0,178.0 919.0,184.0 919.0,198.0 913.0,204.0 878.0,204.0 872.0,198.0 872.0,184.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="895.5" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">RCA</text>
+<polygon points="933.0,178.0 1080.0,178.0 1086.0,184.0 1086.0,198.0 1080.0,204.0 933.0,204.0 927.0,198.0 927.0,184.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="1006.5" y="195.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">INCIDENT ESCALATION</text>
+<polygon points="62.0,214.0 258.0,214.0 264.0,220.0 264.0,234.0 258.0,240.0 62.0,240.0 56.0,234.0 56.0,220.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="160.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">PLAYBOOK/RUNBOOK EXECUTION</text>
+<polygon points="278.0,214.0 327.0,214.0 333.0,220.0 333.0,234.0 327.0,240.0 278.0,240.0 272.0,234.0 272.0,220.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="302.5" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">OSINT</text>
+<polygon points="347.0,214.0 424.0,214.0 430.0,220.0 430.0,234.0 424.0,240.0 347.0,240.0 341.0,234.0 341.0,220.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="385.5" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">WIRESHARK</text>
+<polygon points="444.0,214.0 486.0,214.0 492.0,220.0 492.0,234.0 486.0,240.0 444.0,240.0 438.0,234.0 438.0,220.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="465.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">NMAP</text>
+<polygon points="506.0,214.0 590.0,214.0 596.0,220.0 596.0,234.0 590.0,240.0 506.0,240.0 500.0,234.0 500.0,220.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="548.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">BURP SUITE</text>
+<polygon points="610.0,214.0 666.0,214.0 672.0,220.0 672.0,234.0 666.0,240.0 610.0,240.0 604.0,234.0 604.0,220.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="638.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">NESSUS</text>
+<polygon points="686.0,214.0 770.0,214.0 776.0,220.0 776.0,234.0 770.0,240.0 686.0,240.0 680.0,234.0 680.0,220.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="728.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">METASPLOIT</text>
+<polygon points="790.0,214.0 874.0,214.0 880.0,220.0 880.0,234.0 874.0,240.0 790.0,240.0 784.0,234.0 784.0,220.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="832.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">KALI LINUX</text>
+<polygon points="894.0,214.0 992.0,214.0 998.0,220.0 998.0,234.0 992.0,240.0 894.0,240.0 888.0,234.0 888.0,220.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="943.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">MITRE ATT&amp;CK</text>
+<polygon points="1012.0,214.0 1138.0,214.0 1144.0,220.0 1144.0,234.0 1138.0,240.0 1012.0,240.0 1006.0,234.0 1006.0,220.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="1075.0" y="231.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">CYBER KILL CHAIN</text>
+<polygon points="52.5,250.0 150.5,250.0 156.5,256.0 156.5,270.0 150.5,276.0 52.5,276.0 46.5,270.0 46.5,256.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="101.5" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">OWASP TOP 10</text>
+<polygon points="170.5,250.0 240.5,250.0 246.5,256.0 246.5,270.0 240.5,276.0 170.5,276.0 164.5,270.0 164.5,256.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="205.5" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">NIST CSF</text>
+<polygon points="260.5,250.0 358.5,250.0 364.5,256.0 364.5,270.0 358.5,276.0 260.5,276.0 254.5,270.0 254.5,256.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="309.5" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">CVSS SCORING</text>
+<polygon points="378.5,250.0 434.5,250.0 440.5,256.0 440.5,270.0 434.5,276.0 378.5,276.0 372.5,270.0 372.5,256.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="406.5" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">TCP/IP</text>
+<polygon points="454.5,250.0 489.5,250.0 495.5,256.0 495.5,270.0 489.5,276.0 454.5,276.0 448.5,270.0 448.5,256.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="472.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">DNS</text>
+<polygon points="509.5,250.0 593.5,250.0 599.5,256.0 599.5,270.0 593.5,276.0 509.5,276.0 503.5,270.0 503.5,256.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="551.5" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">HTTP/HTTPS</text>
+<polygon points="613.5,250.0 648.5,250.0 654.5,256.0 654.5,270.0 648.5,276.0 613.5,276.0 607.5,270.0 607.5,256.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="631.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">VPN</text>
+<polygon points="668.5,250.0 745.5,250.0 751.5,256.0 751.5,270.0 745.5,276.0 668.5,276.0 662.5,270.0 662.5,256.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="707.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">FIREWALLS</text>
+<polygon points="765.5,250.0 800.5,250.0 806.5,256.0 806.5,270.0 800.5,276.0 765.5,276.0 759.5,270.0 759.5,256.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="783.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">ARP</text>
+<polygon points="820.5,250.0 862.5,250.0 868.5,256.0 868.5,270.0 862.5,276.0 820.5,276.0 814.5,270.0 814.5,256.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="841.5" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">DHCP</text>
+<polygon points="882.5,250.0 1001.5,250.0 1007.5,256.0 1007.5,270.0 1001.5,276.0 882.5,276.0 876.5,270.0 876.5,256.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="942.0" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">PACKET ANALYSIS</text>
+<polygon points="1021.5,250.0 1147.5,250.0 1153.5,256.0 1153.5,270.0 1147.5,276.0 1021.5,276.0 1015.5,270.0 1015.5,256.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="1084.5" y="267.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">NETWORK SCANNING</text>
+<polygon points="92.5,286.0 218.5,286.0 224.5,292.0 224.5,306.0 218.5,312.0 92.5,312.0 86.5,306.0 86.5,292.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="155.5" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">PORT ENUMERATION</text>
+<polygon points="238.5,286.0 322.5,286.0 328.5,292.0 328.5,306.0 322.5,312.0 238.5,312.0 232.5,306.0 232.5,292.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="280.5" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">KALI LINUX</text>
+<polygon points="342.5,286.0 468.5,286.0 474.5,292.0 474.5,306.0 468.5,312.0 342.5,312.0 336.5,306.0 336.5,292.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="405.5" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">WINDOWS SECURITY</text>
+<polygon points="488.5,286.0 565.5,286.0 571.5,292.0 571.5,306.0 565.5,312.0 488.5,312.0 482.5,306.0 482.5,292.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="527.0" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">LINUX CLI</text>
+<polygon points="585.5,286.0 669.5,286.0 675.5,292.0 675.5,306.0 669.5,312.0 585.5,312.0 579.5,306.0 579.5,292.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="627.5" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">VIRTUALBOX</text>
+<polygon points="689.5,286.0 871.5,286.0 877.5,292.0 877.5,306.0 871.5,312.0 689.5,312.0 683.5,306.0 683.5,292.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="780.5" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">VIRTUAL LAB ENVIRONMENTS</text>
+<polygon points="891.5,286.0 947.5,286.0 953.5,292.0 953.5,306.0 947.5,312.0 891.5,312.0 885.5,306.0 885.5,292.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="919.5" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">PYTHON</text>
+<polygon points="967.5,286.0 1107.5,286.0 1113.5,292.0 1113.5,306.0 1107.5,312.0 967.5,312.0 961.5,306.0 961.5,292.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="1037.5" y="303.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">SECURITY SCRIPTING</text>
+<polygon points="124.0,322.0 208.0,322.0 214.0,328.0 214.0,342.0 208.0,348.0 124.0,348.0 118.0,342.0 118.0,328.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="166.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">AUTOMATION</text>
+<polygon points="228.0,322.0 382.0,322.0 388.0,328.0 388.0,342.0 382.0,348.0 228.0,348.0 222.0,342.0 222.0,328.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="305.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">BASH/SHELL SCRIPTING</text>
+<polygon points="402.0,322.0 486.0,322.0 492.0,328.0 492.0,342.0 486.0,348.0 402.0,348.0 396.0,342.0 396.0,328.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="444.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">POWERSHELL</text>
+<polygon points="506.0,322.0 541.0,322.0 547.0,328.0 547.0,342.0 541.0,348.0 506.0,348.0 500.0,342.0 500.0,328.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="523.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">SQL</text>
+<polygon points="561.0,322.0 596.0,322.0 602.0,328.0 602.0,342.0 596.0,348.0 561.0,348.0 555.0,342.0 555.0,328.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="578.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">PHP</text>
+<polygon points="616.0,322.0 756.0,322.0 762.0,328.0 762.0,342.0 756.0,348.0 616.0,348.0 610.0,342.0 610.0,328.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="686.0" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">AES-256 ENCRYPTION</text>
+<polygon points="776.0,322.0 881.0,322.0 887.0,328.0 887.0,342.0 881.0,348.0 776.0,348.0 770.0,342.0 770.0,328.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="828.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">STEGANOGRAPHY</text>
+<polygon points="901.0,322.0 1076.0,322.0 1082.0,328.0 1082.0,342.0 1076.0,348.0 901.0,348.0 895.0,342.0 895.0,328.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="988.5" y="339.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">ZERO TRUST ARCHITECTURE</text>
+<polygon points="303.5,358.0 520.5,358.0 526.5,364.0 526.5,378.0 520.5,384.0 303.5,384.0 297.5,378.0 297.5,364.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="412.0" y="375.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">EDR (CROWDSTRIKE/SENTINELONE)</text>
+<polygon points="540.5,358.0 729.5,358.0 735.5,364.0 735.5,378.0 729.5,384.0 540.5,384.0 534.5,378.0 534.5,364.0" fill="#000000" stroke="#ffffff" stroke-width="1.2"/>
+<text x="635.0" y="375.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ffffff" text-anchor="middle">SERVICENOW/JIRA TICKETING</text>
+<polygon points="749.5,358.0 896.5,358.0 902.5,364.0 902.5,378.0 896.5,384.0 749.5,384.0 743.5,378.0 743.5,364.0" fill="#000000" stroke="#ff9500" stroke-width="1.2"/>
+<text x="823.0" y="375.0" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="bold" letter-spacing="0.6" fill="#ff9500" text-anchor="middle">24X7 SOC OPERATIONS</text>
+<line x1="40" y1="402" x2="1160" y2="402" stroke="#333333" stroke-width="1"/>
+</svg>
