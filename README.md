@@ -36,7 +36,7 @@
 
 
 # 𝕿𝖊𝖆𝖒 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖎𝖔𝖓  
-<img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
+<img align="left" alt="int-cat.png" width="160" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
 
 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗶𝘀𝗻'𝘁 𝗮 𝘀𝗼𝗹𝗼 𝘀𝗽𝗼𝗿𝘁. 𝗧𝗵𝗲 𝗿𝗲𝗮𝗹 𝗯𝗿𝗲𝗮𝗸𝘁𝗵𝗿𝗼𝘂𝗴𝗵𝘀 𝗵𝗮𝗽𝗽𝗲𝗻 𝘄𝗵𝗲𝗻 𝗮𝗻𝗮𝗹𝘆𝘀𝘁𝘀 **𝘁𝗮𝗹𝗸 𝘁𝗼 𝗲𝗮𝗰𝗵 𝗼𝘁𝗵𝗲𝗿** - 𝘄𝗵𝗲𝗻 𝘀𝗼𝗺𝗲𝗼𝗻𝗲 𝘀𝗮𝘆𝘀, *"𝗜 𝘀𝗮𝘄 𝘀𝗼𝗺𝗲𝘁𝗵𝗶𝗻𝗴 𝘀𝗶𝗺𝗶𝗹𝗮𝗿 𝘆𝗲𝘀𝘁𝗲𝗿𝗱𝗮𝘆,"* 𝗮𝗻𝗱 𝘀𝘂𝗱𝗱𝗲𝗻𝗹𝘆 𝗮 **𝗽𝗮𝘁𝘁𝗲𝗿𝗻 𝗰𝗹𝗶𝗰𝗸𝘀** 𝗶𝗻𝘁𝗼 𝗽𝗹𝗮𝗰𝗲.
 
