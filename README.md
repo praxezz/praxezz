@@ -4,11 +4,16 @@
   
 <img align="right" alt="welcat.png" width="170" src="https://raw.githubusercontent.com/praxezz/praxezz/main/wel-cat.png" /> 
 
-<b>I'm Praveen K</b> security caught my attention the same way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity turned into a habit, and eventually into a discipline.
+<b>I'm Praveen K</b>. Security caught my attention the way an unusual login attempt catches an analyst's eye: small, easy to miss, impossible to ignore once you notice it. That curiosity became a habit, then a discipline.
+<br>
 
-I studied Computer Science (2022–2026), but most of what shaped me happened outside the syllabus - late nights in a <b>home lab </b>, <b>packet captures</b> that didn't add up, and the quiet satisfaction of turning "something feels off" into "here's exactly what happened, and here's the fix." That hands-on curiosity grew into a broader interest in <b>offensive and defensive security</b> - investigating threats, building automated tools for reconnaissance and analysis, and creating practical defenses grounded in real-world findings. I also contribute to open-source projects aimed at making <b>security better for everyone</b>.
+I studied Computer Science (2022–2026), but most of what shaped me happened outside the syllabus - late nights in a <b>home lab</b>, <b>packet captures</b> that didn't add up, and the quiet satisfaction of turning "something feels off" into "here's exactly what happened, and here's the fix."
+<br>
 
-I'm drawn to the defensive side because it rewards patience, pattern recognition, and the discipline to chase evidence over assumptions. Right now, I'm looking to bring that mindset into a <b>Cybersecurity Analyst / L1 Network Engineer</b> role - somewhere I can monitor, investigate, and respond to real threats, and keep getting better at reading the signals that matter.
+That curiosity grew into a broader interest in <b>offensive and defensive security</b>: investigating threats, building tools for recon and analysis, and creating defenses grounded in real findings. I also contribute to open-source projects working toward <b>better security for everyone</b>.
+<br>
+
+I lean toward defense because it rewards patience, pattern recognition, and the discipline to chase evidence over assumptions. Right now, I'm looking to bring that mindset into a <b>Cybersecurity Analyst / L1 Network Engineer</b> role - somewhere I can monitor, investigate, respond to real threats, and keep sharpening my read on the signals that matter.
 
 <br>
 
