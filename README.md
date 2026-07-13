@@ -34,10 +34,9 @@
 
 <div align="right">     
 
-<img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
 
 # 𝕿𝖊𝖆𝖒 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖎𝖔𝖓  
-
+<img align="left" alt="int-cat.png" width="180" src="https://raw.githubusercontent.com/praxezz/praxezz/main/int-cat.png" />
 
 𝕾𝖊𝖈𝖚𝖗𝖎𝖙𝖞 𝖎𝖘𝖓'𝖙 𝖆 𝖘𝖔𝖑𝖔 𝖘𝖕𝖔𝖗𝖙. 𝕿𝖍𝖊 𝖗𝖊𝖆𝖑 𝖇𝖗𝖊𝖆𝖐𝖙𝖍𝖗𝖔𝖚𝖌𝖍𝖘 𝖍𝖆𝖕𝖕𝖊𝖓 𝖜𝖍𝖊𝖓 𝖆𝖓𝖆𝖑𝖞𝖘𝖙𝖘 **𝖙𝖆𝖑𝖐 𝖙𝖔 𝖊𝖆𝖈𝖍 𝖔𝖙𝖍𝖊𝖗** - 𝖜𝖍𝖊𝖓 𝖘𝖔𝖒𝖊𝖔𝖓𝖊 𝖘𝖆𝖞𝖘, *"𝕴 𝖘𝖆𝖜 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖘𝖎𝖒𝖎𝖑𝖆𝖗 𝖞𝖊𝖘𝖙𝖊𝖗𝖉𝖆𝖞,"* 𝖆𝖓𝖉 𝖘𝖚𝖉𝖉𝖊𝖓𝖑𝖞 𝖆 **𝖕𝖆𝖙𝖙𝖊𝖗𝖓 𝖈𝖑𝖎𝖈𝖐𝖘** 𝖎𝖓𝖙𝖔 𝖕𝖑𝖆𝖈𝖊.
 
