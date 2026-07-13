@@ -13,8 +13,7 @@ I studied Computer Science (2022–2026), but most of what shaped me happened ou
 That curiosity grew into a broader interest in <b>offensive and defensive security</b>: investigating threats, building tools for recon and analysis, and creating defenses grounded in real findings. I also contribute to open-source projects working toward <b>better security for everyone</b>.
 <br>
 
-I lean toward defense because it rewards patience, pattern recognition, and the discipline to chase evidence over assumptions. Right now, I'm looking to bring that mindset into a <b>Cybersecurity Analyst / L1 Network Engineer</b> role - somewhere I can monitor, investigate, respond to real threats, and keep sharpening my read on the signals that matter.
-
+I lean toward defense because it rewards <b>patience</b>, <b>pattern recognition</b>, and <b>evidence over assumptions</b>. Right now, I'm looking to bring that mindset into a <b>Cybersecurity Analyst / L1 Network Engineer</b> role - where I can monitor, investigate, and respond to real threats.
 <br>
 
 </div>
