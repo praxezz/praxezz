@@ -29,7 +29,7 @@
 <div align="center">
   
 # 𝕮𝖞𝖇𝖊𝖗 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
-<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/cyber-arsenal.svg" alt="Cyber Arsenal" width="1100" />
+<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/cyber-arsenal-panel.svg" alt="Cyber Arsenal" width="1100" />
     
 
 </div>
