@@ -2,8 +2,10 @@
 <img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/praxezz_banner.svg" alt="praxezz banner" width="1100" />
 </div>
 
-<div align="left">
+<br>
 
+<div align="left">
+  
 # 𝕭𝖊𝖍𝖎𝖓𝖉 𝖙𝖍𝖊 𝕬𝖓𝖆𝖑𝖞𝖘𝖙
   
 <img align="right" alt="welcat.png" width="170" src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/wel-cat.png" /> 
@@ -63,5 +65,5 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=7C3AED&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=false"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=E8231A&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=false"/>
 </div>
