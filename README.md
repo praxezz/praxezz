@@ -23,7 +23,6 @@
 
 <div align="center">
     
-<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/cyber_arsenal_v.svg" alt="Cyber Arsenal" width="1100" />
 
 </div>
 
