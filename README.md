@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/praxezz_banner.svg?v=1" alt="Praxezz banner" width="1000" />
+<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/praxezz_banner.svg?v=1" alt="Praxezz banner" width="1100" />
 
 </div>
 
