@@ -64,8 +64,7 @@
 <br>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/terminal.svg?v=3" alt="terminal outro" width="460" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/Earthz.gif?v=3" alt="Earth roto" width="290" />
+  <img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/terminal.svg?v=3" alt="terminal outro" width="460" /><img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/Earthz.gif?v=3" alt="Earth roto" width="290" />
 </p>
 
 
