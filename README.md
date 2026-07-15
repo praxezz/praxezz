@@ -63,15 +63,17 @@
 # 
 <br>
 
+<p align="center">
+  <img src="./terminal.svg" alt="terminal outro" width="460" style="margin-right: 10px;" />
+  <img src="./Earthz.gif" alt="Earth roto" width="290" />
+</p>
+
+
+# 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=E8231A&point=27c93f&area=true&area_color=FFFFFF&hide_border=false"/>
 </div>
 
-# 
-<br>
-
-<p align="center">
-  <img src="./Earthz.gif" alt="Earth roto" width="290" />
-  <img src="./terminal.svg" alt="terminal outro" width="460" style="margin-right: 10px;" />
-</p>
