@@ -1,0 +1,96 @@
+<svg width="460" height="290" viewBox="0 0 460 290" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .win { fill: #0a0a0a; stroke: #2a2a2a; stroke-width: 1; }
+    .bar { fill: #151515; }
+    .dot { r: 6; }
+    .red { fill: #E8231A; }
+    .yellow { fill: #ffbd2e; }
+    .green { fill: #27c93f; }
+    text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 13.5px;
+    }
+    .box    { fill: #ff3b3b; }
+    .user   { fill: #ff3b3b; }
+    .at     { fill: #f5f5f5; }
+    .host   { fill: #ff3b3b; }
+    .path   { fill: #f5f5f5; }
+    .cmd    { fill: #f5f5f5; }
+    .out    { fill: #cfcfcf; }
+    .cmt    { fill: #8a8a8a; }
+    .green  { fill: #27c93f; }
+    .title  { fill: #8b8b8b; font-size: 11px; }
+
+    .line {
+      opacity: 0;
+      animation: reveal 0.3s ease-out forwards;
+    }
+    .l1 { animation-delay: 0.3s; }
+    .l2 { animation-delay: 0.9s; }
+    .l3 { animation-delay: 1.7s; }
+    .l4 { animation-delay: 2.3s; }
+    .l5 { animation-delay: 3.1s; }
+    .l6 { animation-delay: 3.6s; }
+    @keyframes reveal {
+      from { opacity: 0; transform: translateX(-6px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+    .cursor {
+      fill: #ff3b3b;
+      animation: blink 1s steps(1) infinite;
+      animation-delay: 3.9s;
+    }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      51%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="458" height="288" rx="10" class="win"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="458" height="32" rx="10" class="bar"/>
+  <rect x="1" y="19" width="458" height="14" class="bar"/>
+  <circle class="dot red" cx="22" cy="17"/>
+  <circle class="dot yellow" cx="44" cy="17"/>
+  <circle class="dot green" cx="66" cy="17"/>
+  <text x="230" y="21" class="title" text-anchor="middle">root@praxezz: ~/Github</text>
+
+  <!-- content -->
+  <g>
+    <!-- prompt 1 -->
+    <text x="16" y="60" class="line l1">
+      <tspan class="box">┌──(</tspan><tspan class="user">root</tspan><tspan class="at">@</tspan><tspan class="host">praxezz</tspan><tspan class="box">)-[</tspan><tspan class="path">~/Github</tspan><tspan class="box">]</tspan>
+    </text>
+    <text x="16" y="80" class="line l1">
+      <tspan class="box">└─$ </tspan><tspan class="cmd">echo "Welcome to my GitHub!"</tspan>
+    </text>
+    <text x="16" y="100" class="line l2 out">Welcome to my GitHub!</text>
+
+    <!-- prompt 2 -->
+    <text x="16" y="132" class="line l3">
+      <tspan class="box">┌──(</tspan><tspan class="user">root</tspan><tspan class="at">@</tspan><tspan class="host">praxezz</tspan><tspan class="box">)-[</tspan><tspan class="path">~/Github</tspan><tspan class="box">]</tspan>
+    </text>
+    <text x="16" y="152" class="line l3">
+      <tspan class="box">└─$ </tspan><tspan class="cmd">cat motto.txt</tspan>
+    </text>
+    <text x="16" y="172" class="line l4 out">build it. challenge it. protect it.</text>
+
+    <!-- prompt 3 -->
+    <text x="16" y="204" class="line l5">
+      <tspan class="box">┌──(</tspan><tspan class="user">root</tspan><tspan class="at">@</tspan><tspan class="host">praxezz</tspan><tspan class="box">)-[</tspan><tspan class="path">~/Github</tspan><tspan class="box">]</tspan>
+    </text>
+    <text x="16" y="224" class="line l5">
+      <tspan class="box">└─# </tspan><tspan class="green"># Thanks for visiting — see you next commit.</tspan>
+    </text>
+
+    <!-- final prompt -->
+    <text x="16" y="256" class="line l6">
+      <tspan class="box">┌──(</tspan><tspan class="user">root</tspan><tspan class="at">@</tspan><tspan class="host">praxezz</tspan><tspan class="box">)-[</tspan><tspan class="path">~/Github</tspan><tspan class="box">]</tspan>
+    </text>
+    <text x="16" y="276" class="line l6">
+      <tspan class="box">└─$ </tspan><tspan class="cursor">█</tspan>
+    </text>
+  </g>
+</svg>
