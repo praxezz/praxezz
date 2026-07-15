@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://purge.jsdelivr.net/gh/praxezz/praxezz@main/praxezz_banner.svg?v=1" alt="Praxezz banner" width="1100" />
+<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/praxezz_banner.svg?v=3" alt="Praxezz banner" width="1100" />
 
 </div>
 
@@ -32,7 +32,7 @@
 <div align="center">
   
 # 𝕮𝖞𝖇𝖊𝖗 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
-<img src="https://purge.jsdelivr.net/gh/praxezz/praxezz@main/cyber-arsenal-x.svg?v=1" alt="Cyber Arsenal" width="1000" />    
+<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/cyber-arsenal-x.svg?v=1" alt="Cyber Arsenal" width="1000" />    
 
 </div>
 
