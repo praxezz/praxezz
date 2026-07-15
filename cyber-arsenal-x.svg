@@ -32,8 +32,8 @@
 <circle cx="2642.0" cy="761.9" r="7.2" fill="#E8231A"/>
 
 <g clip-path="url(#innerClip)">
-<polygon points="316.3599999999999,150 523.2199999999999,150 533.2199999999999,160 533.2199999999999,205 523.2199999999999,215 316.3599999999999,215 306.3599999999999,205 306.3599999999999,160" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
-<text x="419.8" y="182.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">SPLUNK</text>
+<polygon points="316.3599999999999,150 523.2199999999999,150 533.2199999999999,160 533.2199999999999,205 523.2199999999999,215 316.3599999999999,215 306.3599999999999,205 306.3599999999999,160" fill="#000000" stroke="#27c93f" stroke-width="1.7"/>
+<text x="419.8" y="182.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#27c93f" text-anchor="middle">SPLUNK</text>
 <polygon points="565.2199999999999,150 1084.8,150 1094.8,160 1094.8,205 1084.8,215 565.2199999999999,215 555.2199999999999,205 555.2199999999999,160" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
 <text x="825.0" y="182.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">MICROSOFT SENTINEL</text>
 <polygon points="1126.8,150 1568.1999999999998,150 1578.1999999999998,160 1578.1999999999998,205 1568.1999999999998,215 1126.8,215 1116.8,205 1116.8,160" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
@@ -50,8 +50,8 @@
 <text x="1334.5" y="263.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">IOC/IOA ANALYSIS</text>
 <polygon points="1610.2,231 2077.66,231 2087.66,241 2087.66,286 2077.66,296 1610.2,296 1600.2,286 1600.2,241" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
 <text x="1843.9" y="263.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">MITRE ATT&amp;CK</text>
-<polygon points="2119.66,231 2587.12,231 2597.12,241 2597.12,286 2587.12,296 2119.66,296 2109.66,286 2109.66,241" fill="#000000" stroke="#ffffff" stroke-width="1.7"/>
-<text x="2353.4" y="263.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">CYBER KILL CHAIN</text>
+<polygon points="2119.66,231 2587.12,231 2597.12,241 2597.12,286 2587.12,296 2119.66,296 2109.66,286 2109.66,241" fill="#000000" stroke="#27c93f" stroke-width="1.7"/>
+<text x="2353.4" y="263.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#27c93f" text-anchor="middle">CYBER KILL CHAIN</text>
 <polygon points="217.99,312 946.05,312 956.05,322 956.05,367 946.05,377 217.99,377 207.99,367 207.99,322" fill="#000000" stroke="#ffffff" stroke-width="1.7"/>
 <text x="582.0" y="344.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">PLAYBOOK/RUNBOOK EXECUTION</text>
 <polygon points="988.05,312 1273.09,312 1283.09,322 1283.09,367 1273.09,377 988.05,377 978.05,367 978.05,322" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
@@ -70,8 +70,8 @@
 <text x="596.3" y="425.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">OSINT</text>
 <polygon points="728.74,393 987.72,393 997.72,403 997.72,448 987.72,458 728.74,458 718.74,448 718.74,403" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
 <text x="858.2" y="425.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">NIST CSF</text>
-<polygon points="1029.72,393 1392.94,393 1402.94,403 1402.94,448 1392.94,458 1029.72,458 1019.72,448 1019.72,403" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
-<text x="1211.3" y="425.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">OWASP TOP 10</text>
+<polygon points="1029.72,393 1392.94,393 1402.94,403 1402.94,448 1392.94,458 1029.72,458 1019.72,448 1019.72,403" fill="#000000" stroke="#27c93f" stroke-width="1.7"/>
+<text x="1211.3" y="425.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#27c93f" text-anchor="middle">OWASP TOP 10</text>
 <polygon points="1434.94,393 1798.16,393 1808.16,403 1808.16,448 1798.16,458 1434.94,458 1424.94,448 1424.94,403" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
 <text x="1616.6" y="425.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">CVSS SCORING</text>
 <polygon points="1840.16,393 2490.04,393 2500.04,403 2500.04,448 2490.04,458 1840.16,458 1830.16,448 1830.16,403" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
@@ -90,8 +90,8 @@
 <text x="2282.4" y="506.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">PACKET ANALYSIS</text>
 <polygon points="191.92999999999984,555 659.3899999999999,555 669.3899999999999,565 669.3899999999999,610 659.3899999999999,620 191.92999999999984,620 181.92999999999984,610 181.92999999999984,565" fill="#000000" stroke="#ffffff" stroke-width="1.7"/>
 <text x="425.7" y="587.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">NETWORK SCANNING</text>
-<polygon points="701.3899999999999,555 908.2499999999999,555 918.2499999999999,565 918.2499999999999,610 908.2499999999999,620 701.3899999999999,620 691.3899999999999,610 691.3899999999999,565" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
-<text x="804.8" y="587.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">PYTHON</text>
+<polygon points="701.3899999999999,555 908.2499999999999,555 918.2499999999999,565 918.2499999999999,610 908.2499999999999,620 701.3899999999999,620 691.3899999999999,610 691.3899999999999,565" fill="#000000" stroke="#27c93f" stroke-width="1.7"/>
+<text x="804.8" y="587.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#27c93f" text-anchor="middle">PYTHON</text>
 <polygon points="950.2499999999999,555 1521.9499999999998,555 1531.9499999999998,565 1531.9499999999998,610 1521.9499999999998,620 950.2499999999999,620 940.2499999999999,610 940.2499999999999,565" fill="#000000" stroke="#ffffff" stroke-width="1.7"/>
 <text x="1236.1" y="587.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">BASH/SHELL SCRIPTING</text>
 <polygon points="1563.9499999999998,555 1875.0499999999997,555 1885.0499999999997,565 1885.0499999999997,610 1875.0499999999997,620 1563.9499999999998,620 1553.9499999999998,610 1553.9499999999998,565" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
@@ -102,8 +102,8 @@
 <text x="2399.6" y="587.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">AUTOMATION</text>
 <polygon points="382.79999999999995,636 1189.04,636 1199.04,646 1199.04,691 1189.04,701 382.79999999999995,701 372.79999999999995,691 372.79999999999995,646" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
 <text x="785.9" y="668.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">EDR (CROWDSTRIKE/SENTINELONE)</text>
-<polygon points="1231.04,636 1776.6799999999998,636 1786.6799999999998,646 1786.6799999999998,691 1776.6799999999998,701 1231.04,701 1221.04,691 1221.04,646" fill="#000000" stroke="#E8231A" stroke-width="1.7"/>
-<text x="1503.9" y="668.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#E8231A" text-anchor="middle">24X7 SOC OPERATIONS</text>
+<polygon points="1231.04,636 1776.6799999999998,636 1786.6799999999998,646 1786.6799999999998,691 1776.6799999999998,701 1231.04,701 1221.04,691 1221.04,646" fill="#000000" stroke="#27c93f" stroke-width="1.7"/>
+<text x="1503.9" y="668.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#27c93f" text-anchor="middle">24X7 SOC OPERATIONS</text>
 <polygon points="1818.6799999999998,636 2364.3199999999997,636 2374.3199999999997,646 2374.3199999999997,691 2364.3199999999997,701 1818.6799999999998,701 1808.6799999999998,691 1808.6799999999998,646" fill="#000000" stroke="#ffffff" stroke-width="1.7"/>
 <text x="2091.5" y="668.5" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" font-style="italic" letter-spacing="0.9" fill="#ffffff" text-anchor="middle">INCIDENT ESCALATION</text>
 </g>
