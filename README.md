@@ -68,7 +68,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=E8231A&point=27c93f&area=true&area_color=FFFFFF&hide_border=false"/>
 </div>
 
+# 
+<br>
 
-<p align="center">
+<p align="right">
   <img src="./terminal.svg" alt="terminal outro" width="460" />
 </p>
+
+<p align="left">
+  <img src="./Earth.svg" alt="Earth roto" width="460" />
+</p>
+
+
