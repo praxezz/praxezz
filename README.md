@@ -71,12 +71,7 @@
 # 
 <br>
 
-<p align="right">
-  <img src="./terminal.svg" alt="terminal outro" width="460" />
+<p align="center">
+  <img src="./Earth.gif" alt="Earth roto" width="290" />
+  <img src="./terminal.svg" alt="terminal outro" width="460" style="margin-right: 10px;" />
 </p>
-
-<p align="left">
-  <img src="./Earth.svg" alt="Earth roto" width="460" />
-</p>
-
-
