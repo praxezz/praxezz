@@ -102,5 +102,5 @@
   <line x1="220" y1="140" x2="460" y2="140" stroke="#fff" stroke-width="1"/>
   <rect x="220" y="140" width="50" height="1" fill="#E8231A"/>
 
-  <text x="340" y="160" text-anchor="middle" font-family="'Orbitron','Courier New',monospace" font-size="9.5" letter-spacing="1" fill="#fff" opacity="0.65">IDENTITY: <tspan fill="#E8231A" opacity="1" filter="url(#redGlow)">AUTHENTICATED<animate attributeName="opacity" values="1;0.5;1" dur="1.8s" repeatCount="indefinite"/></tspan> // SALUTATIONS, USER</text>
+  <text x="340" y="160" text-anchor="middle" font-family="'Orbitron','Courier New',monospace" font-size="9.5" letter-spacing="1" fill="#fff" opacity="0.65">IDENTITY: <tspan fill="#27c93f" opacity="1" filter="url(#redGlow)">AUTHENTICATED<animate attributeName="opacity" values="1;0.5;1" dur="1.8s" repeatCount="indefinite"/></tspan> // SALUTATIONS, USER</text>
 </svg>
