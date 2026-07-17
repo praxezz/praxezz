@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
   
-<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/banner.svg?v=3" alt="Info Banner" width="900" />    
+<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/banner.svg?v=3" alt="Info Banner" width="600" />    
 
 </div>
 
