@@ -6,7 +6,7 @@
 
 <div align="left">
   
-# 𝕭𝖊𝖍𝖎𝖓𝖉 𝖙𝖍𝖊 𝕬𝖓𝖆𝖑𝖞𝖘𝖙
+# ʙᴇʜɪɴᴅ ᴛʜᴇ ᴀɴᴀʟʏꜱᴛ
   
 <img align="right" alt="welcat.png" width="170" src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/wel-cat.png" /> 
 
@@ -30,7 +30,9 @@
 
 <div align="center">
   
-# 𝕮𝖞𝖇𝖊𝖗 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
+#
+<br>
+
 <img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/arsenala.svg?v=3" alt="Cyber Arsenal" width="1000" />    
 
 </div>
@@ -43,7 +45,7 @@
 <div align="right">     
 
 
-# 𝕿𝖊𝖆𝖒 𝕮𝖔𝖑𝖑𝖆𝖇𝖔𝖗𝖆𝖙𝖎𝖔𝖓  
+# ᴛᴇᴀᴍ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ 
 <img align="left" alt="int-cat.png" width="160" src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/int-cat.png" />
 
 𝑆𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑖𝑠𝑛'𝑡 𝑎 𝑠𝑜𝑙𝑜 𝑠𝑝𝑜𝑟𝑡. 𝑇ℎ𝑒 𝑟𝑒𝑎𝑙 𝑏𝑟𝑒𝑎𝑘𝑡ℎ𝑟𝑜𝑢𝑔ℎ𝑠 ℎ𝑎𝑝𝑝𝑒𝑛 𝑤ℎ𝑒𝑛 𝑎𝑛𝑎𝑙𝑦𝑠𝑡𝑠 **𝑡𝑎𝑙𝑘 𝑡𝑜 𝑒𝑎𝑐ℎ 𝑜𝑡ℎ𝑒𝑟** - 𝑤ℎ𝑒𝑛 𝑠𝑜𝑚𝑒𝑜𝑛𝑒 𝑠𝑎𝑦𝑠, *"𝐼 𝑠𝑎𝑤 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑠𝑖𝑚𝑖𝑙𝑎𝑟 𝑦𝑒𝑠𝑡𝑒𝑟𝑑𝑎𝑦,"* 𝑎𝑛𝑑 𝑠𝑢𝑑𝑑𝑒𝑛𝑙𝑦 𝑎 **𝑝𝑎𝑡𝑡𝑒𝑟𝑛 𝑐𝑙𝑖𝑐𝑘𝑠** 𝑖𝑛𝑡𝑜 𝑝𝑙𝑎𝑐𝑒.
