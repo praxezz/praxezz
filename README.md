@@ -31,7 +31,7 @@
 <div align="center">
   
 # 𝕮𝖞𝖇𝖊𝖗 𝕬𝖗𝖘𝖊𝖓𝖆𝖑
-<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/arsenal.y.svg?v=3" alt="Cyber Arsenal" width="1000" />    
+<img src="https://cdn.jsdelivr.net/gh/praxezz/praxezz@main/arsenala.svg?v=3" alt="Cyber Arsenal" width="1000" />    
 
 </div>
 
@@ -71,6 +71,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=9D00FF&point=27c93f&area=true&area_color=FFFFFF&hide_border=false"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praxezz&hide_title=true&bg_color=000000&color=FFFFFF&line=27c93f&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=false"/>
 </div>
 
